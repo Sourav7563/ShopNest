@@ -1,1 +1,1 @@
-# ShopNest Project Using Java 
+# ShopNest
